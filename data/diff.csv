@@ -1,12 +1,7 @@
 @@,name,party
-->,Zigmantas Balčytis,Social Democratic Labour Party of Lithuania->Political Group of Democrats ‘For Lithuania’
 ->,Jonas Pinskus,Social Democratic Labour Party of Lithuania->Lithuanian Regions Political Group
 ->,Andrius Palionis,Social Democratic Labour Party of Lithuania->Lithuanian Regions Political Group
-->,Domas Griškevičius,Non-attached Members->Political Group of Democrats ‘For Lithuania’
-->,Vytautas Bakas,Non-attached Members->Political Group of Democrats ‘For Lithuania’
 ->,Valdemaras Valkiūnas,NULL->Lithuanian Regions Political Group
-->,Petras Gražulis,NULL->Lithuanian Regions Political Group
-->,Algirdas Butkevičius,Lithuanian Green Party->Political Group of Democrats ‘For Lithuania’
 ->,Tomas Tomilinas,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
 ->,Zenonas Streikus,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
 ->,Algirdas Stončaitis,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
@@ -15,13 +10,178 @@
 ->,Laima Nagienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
 ->,Laima Mogenienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
 ->,Rūta Miliūtė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
-->,Linas Kukuraitis,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
-->,Rima Baškienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
 ->,Agnė Širinskienė,Lithuanian Farmers and Greens Union Political Group->Lithuanian Regions Political Group
-->,Viktorija Čmilytė-Nielsen,Liberals Movement Political Group->NULL
 ->,Remigijus Žemaitaitis,Freedom and Justice->Lithuanian Regions Political Group
 ->,Rita Tamašunienė,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
 ->,Beata Petkevič,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
 ->,Česlav Olševski,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
+---,Zigmantas Balčytis,Social Democratic Labour Party of Lithuania
+---,Vytautas Bakas,Non-attached Members
+---,Domas Griškevičius,Non-attached Members
+---,Vidmantas Kanopa,Lithuanian Social Democratic Party Political Group
+---,Tomas Bičiūnas,Lithuanian Social Democratic Party Political Group
+---,Rasa Budbergytė,Lithuanian Social Democratic Party Political Group
+---,Liudas Jonaitis,Lithuanian Social Democratic Party Political Group
+---,Linas Jonauskas,Lithuanian Social Democratic Party Political Group
+---,Algirdas Butkevičius,Lithuanian Green Party
+---,Valius Ąžuolas,Lithuanian Farmers and Greens Union Political Group
+---,Rima Baškienė,Lithuanian Farmers and Greens Union Political Group
+---,Linas Kukuraitis,Lithuanian Farmers and Greens Union Political Group
+---,Ligita Girskienė,Lithuanian Farmers and Greens Union Political Group
+---,Jonas Jarutis,Lithuanian Farmers and Greens Union Political Group
+---,Guoda Burokienė,Lithuanian Farmers and Greens Union Political Group
+---,Gintautas Kindurys,Lithuanian Farmers and Greens Union Political Group
+---,Eugenijus Jovaiša,Lithuanian Farmers and Greens Union Political Group
+---,Asta Kubilienė,Lithuanian Farmers and Greens Union Political Group
+---,Algimantas Dumbrava,Lithuanian Farmers and Greens Union Political Group
+---,Virgilijus Alekna,Liberals Movement Political Group
+---,Viktorija Čmilytė-Nielsen,Liberals Movement Political Group
+---,Simonas Gentvilas,Liberals Movement Political Group
+---,Ričardas Juška,Liberals Movement Political Group
+---,Juozas Baublys,Liberals Movement Political Group
+---,Eugenijus Gentvilas,Liberals Movement Political Group
+---,Andrius Bagdonas,Liberals Movement Political Group
+---,Vytautas Gapšys,Labour Party Political Group
+---,Vigilijus Jukna,Labour Party Political Group
+---,Valentinas Bukauskas,Labour Party Political Group
 ---,Vaida Giraitytė,Labour Party Political Group
+---,Ieva Kačinskaitė-Urbonienė,Labour Party Political Group
+---,Aidas Gedvilas,Labour Party Political Group
+---,Viktoras Fiodorovas,Labour Party Political Group
+---,Vytautas Kernagis,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Vytautas Juozapaitis,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Paulė Kuzmickienė,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Laurynas Kasčiūnas,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Laima Liucija Andrikienė,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Kristijonas Bartoševičius,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Justas Džiugelis,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Jonas Gudauskas,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Irena Haase,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Audronius Ažubalis,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Arvydas Anušauskas,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Antanas Čepononis,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Andrius Kupčinskas,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Aistė Gedvilienė,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Agnė Bilotaitė,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Vilija Aleknaitė Abramikienė,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Sergejus Jovaiša,Homeland Union-Lithuanian Christian Democrat Political Group
+---,Morgana Danielė,Freedom Party Political Group
+---,Kasparas Adomaitis,Freedom Party Political Group
+---,Evelina Dobrovolska,Freedom Party Political Group
+---,Aušrinė Armonaitė,Freedom Party Political Group
+---,Petras Gražulis,
++++,Linas Kukuraitis,Political Group of Democrats ‘For Lithuania’
++++,Domas Griškevičius,Political Group of Democrats ‘For Lithuania’
++++,Algirdas Butkevičius,Political Group of Democrats ‘For Lithuania’
++++,Rima Baškienė,Political Group of Democrats ‘For Lithuania’
++++,Zigmantas Balčytis,Political Group of Democrats ‘For Lithuania’
++++,Vytautas Bakas,Political Group of Democrats ‘For Lithuania’
++++,Linas Kukuraitis,Political Group of Democrats ‘For Lithuania’
++++,Domas Griškevičius,Political Group of Democrats ‘For Lithuania’
++++,Algirdas Butkevičius,Political Group of Democrats ‘For Lithuania’
++++,Rima Baškienė,Political Group of Democrats ‘For Lithuania’
++++,Zigmantas Balčytis,Political Group of Democrats ‘For Lithuania’
++++,Vytautas Bakas,Political Group of Democrats ‘For Lithuania’
++++,Vidmantas Kanopa,Lithuanian Social Democratic Party Political Group
++++,Linas Jonauskas,Lithuanian Social Democratic Party Political Group
++++,Liudas Jonaitis,Lithuanian Social Democratic Party Political Group
++++,Rasa Budbergytė,Lithuanian Social Democratic Party Political Group
++++,Tomas Bičiūnas,Lithuanian Social Democratic Party Political Group
++++,Vidmantas Kanopa,Lithuanian Social Democratic Party Political Group
++++,Linas Jonauskas,Lithuanian Social Democratic Party Political Group
++++,Liudas Jonaitis,Lithuanian Social Democratic Party Political Group
++++,Rasa Budbergytė,Lithuanian Social Democratic Party Political Group
++++,Tomas Bičiūnas,Lithuanian Social Democratic Party Political Group
++++,Petras Gražulis,Lithuanian Regions Political Group
++++,Petras Gražulis,Lithuanian Regions Political Group
++++,Asta Kubilienė,Lithuanian Farmers and Greens Union Political Group
++++,Gintautas Kindurys,Lithuanian Farmers and Greens Union Political Group
++++,Dainius Kepenis,Lithuanian Farmers and Greens Union Political Group
++++,Eugenijus Jovaiša,Lithuanian Farmers and Greens Union Political Group
++++,Jonas Jarutis,Lithuanian Farmers and Greens Union Political Group
++++,Ligita Girskienė,Lithuanian Farmers and Greens Union Political Group
++++,Dainius Gaižauskas,Lithuanian Farmers and Greens Union Political Group
++++,Algimantas Dumbrava,Lithuanian Farmers and Greens Union Political Group
++++,Guoda Burokienė,Lithuanian Farmers and Greens Union Political Group
++++,Valius Ąžuolas,Lithuanian Farmers and Greens Union Political Group
++++,Asta Kubilienė,Lithuanian Farmers and Greens Union Political Group
++++,Gintautas Kindurys,Lithuanian Farmers and Greens Union Political Group
++++,Eugenijus Jovaiša,Lithuanian Farmers and Greens Union Political Group
++++,Jonas Jarutis,Lithuanian Farmers and Greens Union Political Group
++++,Ligita Girskienė,Lithuanian Farmers and Greens Union Political Group
++++,Algimantas Dumbrava,Lithuanian Farmers and Greens Union Political Group
++++,Guoda Burokienė,Lithuanian Farmers and Greens Union Political Group
++++,Valius Ąžuolas,Lithuanian Farmers and Greens Union Political Group
++++,Ričardas Juška,Liberals Movement Political Group
++++,Simonas Gentvilas,Liberals Movement Political Group
++++,Eugenijus Gentvilas,Liberals Movement Political Group
++++,Juozas Baublys,Liberals Movement Political Group
++++,Andrius Bagdonas,Liberals Movement Political Group
++++,Virgilijus Alekna,Liberals Movement Political Group
++++,Ričardas Juška,Liberals Movement Political Group
++++,Simonas Gentvilas,Liberals Movement Political Group
++++,Eugenijus Gentvilas,Liberals Movement Political Group
++++,Juozas Baublys,Liberals Movement Political Group
++++,Andrius Bagdonas,Liberals Movement Political Group
++++,Virgilijus Alekna,Liberals Movement Political Group
++++,Ieva Kačinskaitė-Urbonienė,Labour Party Political Group
++++,Vigilijus Jukna,Labour Party Political Group
 +++,Vaida Giraitytė-Juškevičienė,Labour Party Political Group
++++,Aidas Gedvilas,Labour Party Political Group
++++,Vytautas Gapšys,Labour Party Political Group
++++,Viktoras Fiodorovas,Labour Party Political Group
++++,Valentinas Bukauskas,Labour Party Political Group
++++,Ieva Kačinskaitė-Urbonienė,Labour Party Political Group
++++,Vigilijus Jukna,Labour Party Political Group
++++,Vaida Giraitytė-Juškevičienė,Labour Party Political Group
++++,Aidas Gedvilas,Labour Party Political Group
++++,Vytautas Gapšys,Labour Party Political Group
++++,Viktoras Fiodorovas,Labour Party Political Group
++++,Valentinas Bukauskas,Labour Party Political Group
++++,Paulė Kuzmickienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Andrius Kupčinskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Dainius Kreivys,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vytautas Kernagis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Laurynas Kasčiūnas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vytautas Juozapaitis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Sergejus Jovaiša,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Irena Haase,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Jonas Gudauskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Aistė Gedvilienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Justas Džiugelis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Antanas Čepononis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Agnė Bilotaitė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Kristijonas Bartoševičius,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Audronius Ažubalis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Arvydas Anušauskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Laima Liucija Andrikienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vilija Aleknaitė Abramikienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Paulė Kuzmickienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Andrius Kupčinskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vytautas Kernagis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Laurynas Kasčiūnas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vytautas Juozapaitis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Sergejus Jovaiša,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Irena Haase,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Jonas Gudauskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Aistė Gedvilienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Justas Džiugelis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Antanas Čepononis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Agnė Bilotaitė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Kristijonas Bartoševičius,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Audronius Ažubalis,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Dalia Asanavičiūtė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Arvydas Anušauskas,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Laima Liucija Andrikienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Vilija Aleknaitė Abramikienė,Homeland Union-Lithuanian Christian Democrat Political Group
++++,Kasparas AdomaitisVirgilijus AleknaVilija Aleknaitė AbramikienėLaima Liucija AndrikienėArvydas AnušauskasAušrinė ArmonaitėDalia AsanavičiūtėAudronius AžubalisValius ĄžuolasAndrius BagdonasVytautas BakasZigmantas BalčytisKristijonas BartoševičiusRima BaškienėJuozas BaublysTomas BičiūnasAgnė BilotaitėRasa BudbergytėValentinas BukauskasGuoda BurokienėAlgirdas ButkevičiusAntanas ČepononisViktorija Čmilytė-NielsenMorgana DanielėEvelina DobrovolskaAlgimantas DumbravaJustas DžiugelisViktoras FiodorovasDainius GaižauskasVytautas GapšysAidas GedvilasAistė GedvilienėEugenijus GentvilasSimonas GentvilasVaida Giraitytė-JuškevičienėLigita GirskienėPetras GražulisDomas GriškevičiusJonas GudauskasIrena HaaseJonas JarutisLiudas JonaitisLinas JonauskasEugenijus JovaišaSergejus JovaišaVigilijus JuknaVytautas JuozapaitisRičardas JuškaIeva Kačinskaitė-UrbonienėVidmantas KanopaLaurynas KasčiūnasDainius KepenisVytautas KernagisGintautas KindurysDainius KreivysAsta KubilienėLinas KukuraitisAndrius KupčinskasPaulė KuzmickienėDeividas LabanavičiusGabrielius LandsbergisOrinta LeiputėSilva LengvinienėArminas LydekaMindaugas LingėRaimundas LopataMykolas MajauskasMatas MaldeikisKęstutis MasiulisBronislovas MatelisMarius MatijošaitisAntanas MatulasAndrius MazuronisKęstutis MažeikaRūta MiliūtėVytautas MitalasLaima MogenienėRadvilė Morkūnaitė-MikulėnienėLaima NagienėAndrius NavickasMonika NavickienėArvydas NekrošiusAušrinė NorkienėČeslav OlševskiMonika OšmianskienėIeva PakarklytėAndrius PalionisGintautas PaluckasŽygimantas PavilionisBeata PetkevičAudrius PetrošiusJonas PinskusLiuda PociūnienėArvydas PociusViktoras PranckietisMindaugas PuidokasEdmundas PupinisValdas RakutisTomas Vytautas RaskevičiusJurgis RazmaEdita RudelienėJulius SabatauskasEugenijus SabutisPaulius SaudargasLukas SavickasJurgita SejonienėAlgirdas SysasGintarė SkaistėArtūras SkardžiusMindaugas SkritulskasSaulius SkvernelisLinas SlušnysKazys StarkevičiusAlgirdas StončaitisZenonas StreikusAlgis StrelčiūnasGiedrius SurplysDovilė ŠakalienėRimantė ŠalaševičiūtėRobertas ŠarknickasStasys ŠedbarasIngrida ŠimonytėAgnė ŠirinskienėJurgita ŠiugždinienėRita TamašunienėVilija TargamadzėTomas TomilinasStasys TumėnasJustinas UrbanavičiusRomualdas VaitkusArūnas ValinskasValdemaras ValkiūnasJonas VarkalysJuozas VaržgalysAurelijus VerygaKęstutis VilkauskasAntanas VinkusAndrius VyšniauskasEmanuelis ZingerisRemigijus ŽemaitaitisArtūras Žukauskas,Freedom Party Political GroupLiberals Movement Political Group Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupFreedom Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupLiberals Movement Political Group Political Group of Democrats ‘For Lithuania’Political Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupPolitical Group of Democrats ‘For Lithuania’Liberals Movement Political Group Lithuanian Social Democratic Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Social Democratic Party Political GroupLabour Party Political GroupLithuanian Farmers and Greens Union Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupFreedom Party Political GroupFreedom Party Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLabour Party Political GroupLithuanian Farmers and Greens Union Political GroupLabour Party Political GroupLabour Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Liberals Movement Political Group Labour Party Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Regions Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Social Democratic Party Political GroupLithuanian Social Democratic Party Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLabour Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Labour Party Political GroupLithuanian Social Democratic Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Social Democratic Party Political GroupFreedom Party Political GroupLiberals Movement Political Group Homeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupFreedom Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLabour Party Political GroupLithuanian Farmers and Greens Union Political GroupPolitical Group of Democrats ‘For Lithuania’Freedom Party Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Regions Political GroupFreedom Party Political GroupFreedom Party Political GroupLithuanian Regions Political GroupLithuanian Social Democratic Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Labour Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupFreedom Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Lithuanian Social Democratic Party Political GroupLithuanian Social Democratic Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupLithuanian Social Democratic Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLabour Party Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupPolitical Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupPolitical Group of Democrats ‘For Lithuania’Political Group of Democrats ‘For Lithuania’Homeland Union-Lithuanian Christian Democrat Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Social Democratic Party Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupLithuanian Social Democratic Party Political GroupPolitical Group of Democrats ‘For Lithuania’Lithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLiberals Movement Political Group Homeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupLiberals Movement Political Group Lithuanian Farmers and Greens Union Political GroupLithuanian Farmers and Greens Union Political GroupLithuanian Social Democratic Party Political GroupLithuanian Farmers and Greens Union Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupHomeland Union-Lithuanian Christian Democrat Political GroupLithuanian Regions Political GroupFreedom Party Political Group
++++,Evelina Dobrovolska,Freedom Party Political Group
++++,Morgana Danielė,Freedom Party Political Group
++++,Aušrinė Armonaitė,Freedom Party Political Group
++++,Kasparas Adomaitis,Freedom Party Political Group
++++,Evelina Dobrovolska,Freedom Party Political Group
++++,Morgana Danielė,Freedom Party Political Group
++++,Aušrinė Armonaitė,Freedom Party Political Group
++++,Kasparas Adomaitis,Freedom Party Political Group
++++,Viktorija Čmilytė-Nielsen,""
++++,Viktorija Čmilytė-Nielsen,""
