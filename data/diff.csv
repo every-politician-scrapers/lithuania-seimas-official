@@ -1,142 +1,30 @@
-@@
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
+@@,name,party
+->,Zigmantas Balčytis,Social Democratic Labour Party of Lithuania->Political Group of Democrats ‘For Lithuania’
+->,Jonas Pinskus,Social Democratic Labour Party of Lithuania->Lithuanian Regions Political Group
+->,Andrius Palionis,Social Democratic Labour Party of Lithuania->Lithuanian Regions Political Group
+->,Domas Griškevičius,Non-attached Members->Political Group of Democrats ‘For Lithuania’
+->,Vytautas Bakas,Non-attached Members->Political Group of Democrats ‘For Lithuania’
+->,Valdemaras Valkiūnas,NULL->Lithuanian Regions Political Group
+->,Petras Gražulis,NULL->Lithuanian Regions Political Group
+->,Vilija Targamadzė,Lithuanian Social Democratic Party Political Group->Political Group of Democrats ‘For Lithuania’
+->,Algirdas Butkevičius,Lithuanian Green Party->Political Group of Democrats ‘For Lithuania’
+->,Tomas Tomilinas,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Zenonas Streikus,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Algirdas Stončaitis,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Saulius Skvernelis,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Lukas Savickas,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Laima Nagienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Laima Mogenienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Rūta Miliūtė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Kęstutis Mažeika,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Linas Kukuraitis,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Rima Baškienė,Lithuanian Farmers and Greens Union Political Group->Political Group of Democrats ‘For Lithuania’
+->,Agnė Širinskienė,Lithuanian Farmers and Greens Union Political Group->Lithuanian Regions Political Group
+->,Viktorija Čmilytė-Nielsen,Liberals Movement Political Group->NULL
+->,Mindaugas Puidokas,Labour Party Political Group->Non-attached Members
+->,Remigijus Žemaitaitis,Freedom and Justice->Lithuanian Regions Political Group
+->,Rita Tamašunienė,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
+->,Beata Petkevič,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
+->,Česlav Olševski,Electoral Action of Poles in Lithuania->Lithuanian Regions Political Group
+---,Vaida Giraitytė,Labour Party Political Group
++++,Vaida Giraitytė-Juškevičienė,Labour Party Political Group
